@@ -1,6 +1,6 @@
 # social-media
 
 
-## Currently expanding my MERN stack knowledge by building a fully functioning social media app.
+## Currently building a fully functioning social media app with the MERN stack.
 
 ### Stay tuned for the link! 😉
